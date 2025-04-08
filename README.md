@@ -81,6 +81,12 @@ Once the application is running, visit `http://localhost:3000`. You can:
 
 ![Screenshot 2025-04-08 155653](https://github.com/user-attachments/assets/54a43a3e-cb44-4d33-9b63-3aa6bfc91b42)
 ![image](https://github.com/user-attachments/assets/eb6d5a16-f21e-4612-b735-388b94a74299)
+![Screenshot 2025-04-08 161740](https://github.com/user-attachments/assets/b2cc77d9-e099-41ae-b0a3-06499d2ba64c)
+![Screenshot 2025-04-08 163433](https://github.com/user-attachments/assets/e21f379e-4643-40a6-96c7-2299744fbf40)
+![Screenshot 2025-04-08 163508](https://github.com/user-attachments/assets/aba6fc76-d73d-4737-ab63-d87494d108d3)
+![Screenshot 2025-04-08 163543](https://github.com/user-attachments/assets/91f00b06-ab51-470a-be2a-6b448ed7584e)
+![Screenshot 2025-04-08 163604](https://github.com/user-attachments/assets/807e65f0-bdc8-445f-b66c-74f0c3de4261)
+![Screenshot 2025-04-08 163633](https://github.com/user-attachments/assets/1993911d-4b23-4bdf-b1a5-b7d36780f27d)
 
 ## Tech Stack  
 - **Next.js**: For building fast server-rendered applications.  
@@ -127,7 +133,7 @@ Specify the license under which the project is available.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ## Live Demo  
-Try the live version of Next-Clerk Quick Cart [here]([https://yourapp.vercel.app](https://next-clerk-quick-cart.vercel.app/)).  
+Try the live version of Next-Clerk Quick Cart [here]([https://next-clerk-quick-cart.vercel.app](https://next-clerk-quick-cart.vercel.app/)).  
 
 ## FAQ  
 **Q: How do I reset my password?**  
