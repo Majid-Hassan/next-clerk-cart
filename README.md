@@ -134,9 +134,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Live Demo  
 
-Check out the live demo [here](https://[(https://next-clerk-quick-cart.vercel.app)](https://next-clerk-quick-cart.vercel.app/)).  
-
-Project Link: [https://github.com/yourusername/quiz-app](https://github.com/Majid-Hassan/next-clerk-quick-cart.vercel.app)  
+Check out the live demo [here](https://next-clerk-quick-cart.vercel.app/).  
 
 ## FAQ  
 **Q: How do I reset my password?**  
